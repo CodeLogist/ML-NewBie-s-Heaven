@@ -1,4 +1,7 @@
 ## Welcome to GitHub Pages
+this has all codes
+jlshdf
+sakdfg
 
 You can use the [editor on GitHub](https://github.com/CodeLogist/ML-NewBie-s-Heaven/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

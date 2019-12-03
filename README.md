@@ -15,7 +15,7 @@ Folder can the accessed from [here](https://github.com/CodeLogist/ML-NewBie-s-He
 
 #### 1.1 AutoEncoders
 
-[Image](data/Autoencoder.JPG)
+![](data/Autoencoder.JPG)
 
 AutoEncoders were one of the famous image Compression algorithms. The model consists of an encoder CNN following with a decoder CNN. Folder can the accessed from [here](https://github.com/CodeLogist/ML-NewBie-s-Heaven/tree/master/CNN/Autoencoder)
 

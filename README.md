@@ -1,6 +1,6 @@
 ## Welcome to the Machine Learning Noob's Heaven
 
-The repository contains some of many projects which I had done while I was a kid in Machine Learning. Currently the python notebooks are oriented more towards Deep Learning focussing on some old school DL projects which I found very interesting. For few on them it was tough for me to understand there working and to run them in Google Colab, so I wrote the notebooks trainable in Google Colab to help others.
+The repository contains some of many projects which I had done while I was a kid in Machine Learning. Currently the python notebooks are oriented more towards Deep Learning focussing on some old school DL projects which I found very interesting. For few on them it was tough for me to understand there working and to run them in Google Colab, so I wrote the notebooks trainable in Google Colab to help others. And that's why I invite each of the viewer to contribute to this repository with projects or implementations which you think are important part of Machine Learning pipeline and help ML newcomers to learn more efficiently. 
 
 ### 1. CNN
 
@@ -51,3 +51,41 @@ The folder contains Python project Notebook using Generative Adversarial Network
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](data/face-generator.gif "Face-Generator output Time-lapse")
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GANs Application to generate Faces of those people whom neither did you or the neural network has seen before. Folder can the accessed from [here](https://github.com/CodeLogist/ML-NewBie-s-Heaven/tree/master/GAN/Face%20Generator)
+
+### 3. MLP
+
+This folder will contain all the Multilayer perceptron implementations. Till Date it has Sentiment Analysis and Self-Implemented MLP model. Folder can the accessed from [here](https://github.com/CodeLogist/ML-NewBie-s-Heaven/tree/master/MLP)
+
+### 4. Music Generator
+
+An implementation of RNN and LSTMs to listen initial MIDI tones and then continue it to complete whole tune by generating next tones automatically. Folder can the accessed from [here](https://github.com/CodeLogist/ML-NewBie-s-Heaven/tree/master/Music%20Generator)
+
+### 5. RL
+
+This folder will contain old school project implementations using OpenAI gym and Reinforcement Learning. Till Date this contains:
+
+* Dynamic Programming
+* Monte Carlo
+* Q-Learning
+
+Folder can the accessed from [here](https://github.com/CodeLogist/ML-NewBie-s-Heaven/tree/master/RL)
+
+### 6. RNN
+
+This folder will contain project implementations of RNNs and LSTMs. Till Date this contains:
+
+* Sentiment Analysis (RNN)
+* Automatic Text Generator
+
+Folder can the accessed from [here](https://github.com/CodeLogist/ML-NewBie-s-Heaven/tree/master/RNN)
+
+### 7. Word Embedding
+
+Word Embedding consist of a technique which is word to vector (word2vec). This converts each word into a vector and helps in forming relations between words and their meaning. 
+
+![](data/word2vec.JPG "Word Embeddings")
+
+Folder can the accessed from [here](https://github.com/CodeLogist/ML-NewBie-s-Heaven/tree/master/Word%20Embedding)
+
+
+I invite each of the viewer to contribute to this repository with projects or implementations which you think are important part of Machine Learning pipeline and help ML newcomers to learn more efficiently. Thanks for contributing to collective intelligence!!

@@ -1,15 +1,25 @@
-## Welcome to GitHub Pages
-this has all codes
-jlshdf
-sakdfg
+## Welcome to the Machine Learning Noob's Heaven
 
-You can use the [editor on GitHub](https://github.com/CodeLogist/ML-NewBie-s-Heaven/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The repository contains some of many projects which I had done while I was a kid in Machine Learning. Currently the python notebooks are oriented more towards Deep Learning focussing on some old school DL projects which I found very interesting. For few on them it was tough for me to understand there working and to run them in Google Colab, so I wrote the notebooks trainable in Google Colab to help others.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 1. CNN
 
-### Markdown
+The folder contains Python project Notebook using Convolutional Neural Networks for different purposes. Currently it has following:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*Autoencoder
+*Image Classification
+*Denoising Autoencoder
+*Layerwise output Visualization
+
+Folder can the accessed from [here](https://github.com/CodeLogist/ML-NewBie-s-Heaven/tree/master/CNN)
+
+#### 1.1 AutoEncoders
+
+[Image](data/Autoencoder.JPG)
+
+AutoEncoders were one of the famous image Compression algorithms. The model consists of an encoder CNN following with a decoder CNN. Folder can the accessed from [here](https://github.com/CodeLogist/ML-NewBie-s-Heaven/tree/master/CNN/Autoencoder)
+
+
 
 ```markdown
 Syntax highlighted code block
@@ -26,7 +36,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](data/Autoencoder.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

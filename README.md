@@ -6,10 +6,10 @@ The repository contains some of many projects which I had done while I was a kid
 
 The folder contains Python project Notebook using Convolutional Neural Networks for different purposes. Currently it has following:
 
-*Autoencoder
-*Image Classification
-*Denoising Autoencoder
-*Layerwise output Visualization
+* Autoencoder
+* Image Classification
+* Denoising Autoencoder
+* Layerwise output Visualization
 
 Folder can the accessed from [here](https://github.com/CodeLogist/ML-NewBie-s-Heaven/tree/master/CNN)
 
